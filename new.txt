@@ -1,2 +1,2 @@
-Hello guys.
-This is my first repo on Github
+Hello,
+	this is my first repo
